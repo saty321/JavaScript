@@ -5,3 +5,4 @@ function isEvenOrOdd(number){
 }
 let result = isEvenOrOdd(845)
 console.log(result)
+console.table([result])
